@@ -33,7 +33,8 @@ AI_Customer_Support/
 
 ## Installation
 1. Clone the repository
-   ```
+   ```bash
+   gh repo clone HEMANTHSWAMY26/Hack-the-Future-A-Gen-AI-Sprint-Powered-by-Data
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
